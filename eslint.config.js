@@ -1,5 +1,4 @@
 // eslint.config.js
-// Flat config do ESLint com Expo + regras customizadas
 
 const { defineConfig } = require('eslint/config')
 const expoConfig = require('eslint-config-expo/flat')

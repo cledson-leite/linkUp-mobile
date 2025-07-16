@@ -1,5 +1,6 @@
 import { Text as DefaultText, View as DefaultView, TextInput as DefaultTextInput } from 'react-native';
 
+
 import Colors from './Colors';
 import { useColorScheme } from './useColorScheme';
 
